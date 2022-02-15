@@ -1,4 +1,4 @@
-This is ly first react basic app, uses Imgur Api to display images on the screen for 10 seconds
+This is my first ReactJS basic app, uses Imgur Api to display images on the screen for 10 seconds
 
 It downloads the first four images from an album
 
