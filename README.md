@@ -1,6 +1,8 @@
 This is my first ReactJS basic app, uses Imgur Api to display images on the screen for 10 seconds
 
-instal React JS (ubuntu) : sudo apt install npm 
+instal React JS (ubuntu) : 
+
+                           sudo apt install npm 
 
                            sudo npm -g install create-react-app
 
