@@ -1,6 +1,10 @@
 This is my first ReactJS basic app, uses Imgur Api to display images on the screen for 10 seconds
 
-It downloads the first four images from an album
+instal React JS (ubuntu) : sudo apt install npm 
+
+                           sudo npm -g install create-react-app
+
+the App downloads the first four images from an album
 
 the album hash should be given as an input e.g :  ztQTC or xO071.
 
